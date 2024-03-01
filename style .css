@@ -1,0 +1,29 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner {
+    background: linear-gradient(rgb(125, 170, 252),rgb(133, 245, 237),rgb(125, 170, 252));
+    padding: 200px 0;
+} 
+
+#about{
+    background-color: rgb(43, 205, 226);
+}
+
+#skills{
+    background-color: aqua;
+}
+.card {
+    background-color: rgb(15, 221, 152);
+}
+
+.skills-padding {
+    padding: 100px 0;
+    
+}
+.contact{
+  background: linear-gradient(rgb(125, 170, 252),rgb(133, 245, 237),rgb(125, 170, 252));
+    padding: 200px 0;
+  
+}
